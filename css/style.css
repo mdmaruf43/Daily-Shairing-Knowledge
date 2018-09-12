@@ -35,6 +35,7 @@ p {
 #showcase img{
     width: 90%;
     margin-left: 60px;
+    border-radius: 6px;
 }
 
 #showcase .showcase-left {
